@@ -1,0 +1,2 @@
+This is a spin-and-win game , made with the help of Phaser framework in java-script.
+After clicking on the screen the wheel will start to rotate , initially speed will increase,remain constant, and after some time it will gradually decrease. This gives the game a more natural look.
